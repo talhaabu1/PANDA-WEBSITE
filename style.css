@@ -1,0 +1,30 @@
+body{
+    background-color: #CAD5E2;
+}
+.ms{
+    margin-left: 73px;
+    margin-right: 73px;
+}
+.name{
+    background-color: #fceae7;
+}
+.hot{
+    background-color: #fceae7;
+
+}
+.box{
+    background-color: #fceae7;
+}
+.nice{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.fa-cart-shopping{
+    margin-right: 10px;
+}
+.name-color{
+    background-color: #F6D860;
+    height: 350px;
+}
+.upte{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
